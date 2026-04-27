@@ -1,0 +1,126 @@
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.Forms.FrmBanHang.resources
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.Forms.FrmDonHang.resources
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.AssemblyInfo.cs
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\QLBH.Guardian.SQL.exe
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\QLBH.Guardian.SQL.deps.json
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\QLBH.Guardian.SQL.runtimeconfig.json
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\QLBH.Guardian.SQL.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\QLBH.Guardian.SQL.pdb
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Gua.BB6986E1.Up2Date
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH.Guardian.SQL.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\obj\Debug\net9.0-windows\refint\QLBH.Guardian.SQL.dll
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH.Guardian.SQL.pdb
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.genruntimeconfig.cache
+C:\Users\Admin\Downloads\QLBH Guardian VS2026\QLBH_Guardian_VS2026\QLBH_Guardian\obj\Debug\net9.0-windows\ref\QLBH.Guardian.SQL.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\QLBH.Guardian.SQL.exe
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\QLBH.Guardian.SQL.deps.json
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\QLBH.Guardian.SQL.runtimeconfig.json
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\QLBH.Guardian.SQL.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\QLBH.Guardian.SQL.pdb
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Azure.Core.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Azure.Identity.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\System.ClientModel.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\System.Memory.Data.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.csproj.AssemblyReference.cache
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.Forms.FrmBanHang.resources
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.Forms.FrmDonHang.resources
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.csproj.GenerateResource.cache
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.GeneratedMSBuildEditorConfig.editorconfig
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.AssemblyInfoInputs.cache
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.AssemblyInfo.cs
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.csproj.CoreCompileInputs.cache
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Gua.BB6986E1.Up2Date
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH.Guardian.SQL.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\obj\Debug\net9.0-windows\refint\QLBH.Guardian.SQL.dll
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH.Guardian.SQL.pdb
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\obj\Debug\net9.0-windows\QLBH_Guardian.genruntimeconfig.cache
+D:\đồ án pttk hướng đối tượng\Chương trình mẫu VS\QLBH_Guardian\obj\Debug\net9.0-windows\ref\QLBH.Guardian.SQL.dll

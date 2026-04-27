@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>QLBH.Guardian.SQL</AssemblyName>
+    <RootNamespace>QLBH.Guardian.SQL</RootNamespace>
+    <ApplicationVersion>2026.1.0.0</ApplicationVersion>
+    <Company>Guardian Software</Company>
+    <Product>QLBH Guardian 2026</Product>
+    <Description>Quản lý bán hàng - Phiên bản 2026</Description>
+    <Copyright>Copyright © 2026 Guardian Software</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.1" />
+  </ItemGroup>
+
+</Project>
